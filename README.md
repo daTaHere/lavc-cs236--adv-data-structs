@@ -1,10 +1,9 @@
-# LAVC CS236 Java/C++ Data Structures
+# LAVC CS 236 — Advanced Data Structures (Java/C++)
 [![Course](https://img.shields.io/badge/Course-CS236-blue)]()
 [![Subject](https://img.shields.io/badge/Subject-Adv%20Data%20Structures-purple)]()
 [![Institution](https://img.shields.io/badge/Institution-LAPC-orange)]()
 [![Institution](https://img.shields.io/badge/Institution-LAVC-green)]()
 [![Submissions](https://img.shields.io/badge/Submissions-Student%20Portfolios-red)]()
-[![GitHub](https://img.shields.io/badge/GitHub-CICD-black)](https://github.com)
 
 Coursework for **CS 236: Advanced Data Structures and Introduction to Databases** at **Los Angeles Valley College**. Although some course materials use Java, assignments in this repository are implemented in **C++**.
 
@@ -57,4 +56,4 @@ CS 236 - Fall 2026
 
 **Adam Huynh**  
 [🌐 adamhuynh.dev](https://adamhuynh.dev)  
-Python • C# • C++ • ASP.NET Core • React • SQL • DevOps • GCP • Terraform • Docker • kubernetes 
+Python • C# • C++ • ASP.NET Core • React • SQL • DevOps • GCP • Terraform • Docker • Kubernetes 
