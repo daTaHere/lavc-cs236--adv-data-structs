@@ -12,6 +12,7 @@ Coursework for **CS 236: Advanced Data Structures and Introduction to Databases*
 
 - **Institution:** Los Angeles Valley College (LAVC)
 - **Course:** CS 236 - Advanced Data Structures and Introduction to Databases
+- **Instructor:** David Freedman
 - **Semester:** Fall 2026
 - **Language:** C++
 - **Format:** Online asynchronous
