@@ -23,7 +23,7 @@ the same container.
      - CS 236 Fall Semester LAVC
      - 09/10/2026
     github repo:
-     - https://github.com/daTaHere/lavc-cs236--adv-data-structs/blob/main/assignments/1-simple-banking-program.ccp
+     - https://github.com/daTaHere/lavc-cs236--adv-data-structs/blob/main/assignments
 
 */
 
