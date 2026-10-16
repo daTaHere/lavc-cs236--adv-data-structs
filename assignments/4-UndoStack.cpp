@@ -22,7 +22,7 @@ Created by:
 - 10/15/2026
 
 GitHub repo:
-- https://github.com/daTaHere/lavc-cs236--adv-data-structs
+- https://github.com/daTaHere/lavc-cs236--adv-data-structs/tree/main/assignments
 
 */
 
