@@ -100,7 +100,7 @@ void displayWordCount(const unordered_map<string, int>& wordCounts) {
     }
 }
 
-// Display Key/Value of most frequent worrd
+// Display Key/Value of most frequent word
 void getMostFrequent(const unordered_map<string, int>& wordCounts, const string& mostFrequent) {
     
     cout << "\nMost frequent word: " << (wordCounts.empty() ? "None" : mostFrequent) << endl;
